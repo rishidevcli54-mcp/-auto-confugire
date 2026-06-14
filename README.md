@@ -1,1 +1,1 @@
-# -auto-confugire
+# -auto-configured"
